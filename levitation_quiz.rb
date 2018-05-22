@@ -1,5 +1,9 @@
 
 def levitation_quiz
+  answer = gets.chomp
+  until answer == 
+  puts "What is the spell that enacts levitation?"
+  
 	#your code here
 end
 
